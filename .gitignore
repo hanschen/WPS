@@ -1,0 +1,7 @@
+*.a
+*.f90
+*.exe
+*.mod
+*.o
+
+configure.wps
