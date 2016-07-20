@@ -1,4 +1,5 @@
 *.a
+*.backup
 *.f90
 *.exe
 *.mod
