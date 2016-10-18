@@ -1,3 +1,6 @@
+# Ignore compile log
+/*.log
+
 *.a
 *.backup
 *.f90
